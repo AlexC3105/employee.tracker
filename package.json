@@ -1,0 +1,12 @@
+{
+  "name": "employee.tracker",
+  "version": "1.0.0",
+  "description": "Employee Tracker App This is an employee tracker application that allows users to manage departments, roles, and employees in a company. The app is built using Node.js and MySQL, and it uses Inquirer.js to interact with the user through the command line.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
